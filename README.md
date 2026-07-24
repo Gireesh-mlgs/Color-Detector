@@ -37,7 +37,7 @@ Place any object in front of your webcam and align it with the center crosshair 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Gireesh-mlgs/live-color-detector.git
+git clone https://github.com/Gireesh-mlgs/Color-Detector.git
 cd Color-Detector
 ```
 
