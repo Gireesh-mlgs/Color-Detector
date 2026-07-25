@@ -2,7 +2,6 @@ import cv2
 import webcolors
 from math import sqrt
 
-# Get closest CSS3 color
 def closest_color(rgb):
     min_distance = float("inf")
     closest_name = "Unknown"
