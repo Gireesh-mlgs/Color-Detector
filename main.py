@@ -37,7 +37,6 @@ while True:
 
     color_name = closest_color((r, g, b))
 
-    # Draw crosshair
     cv2.drawMarker(
         frame,
         (cx, cy),
