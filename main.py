@@ -46,7 +46,6 @@ while True:
         2,
     )
 
-    # Show selected color
     cv2.rectangle(frame, (10, 10), (340, 120), (40, 40, 40), -1)
 
     cv2.rectangle(
