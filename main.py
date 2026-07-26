@@ -15,7 +15,6 @@ def closest_color(rgb):
             (rgb[1] - g) ** 2 +
             (rgb[2] - b) ** 2
         )
-
         if distance < min_distance:
             min_distance = distance
             closest_name = name
