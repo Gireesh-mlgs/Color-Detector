@@ -6,6 +6,7 @@ def closest_color(rgb):
     min_distance = float("inf")
     closest_name = "Unknown"
 
+    
     for hex_code, name in webcolors.CSS3_HEX_TO_NAMES.items():
         r, g, b = webcolors.hex_to_rgb(hex_code)
 
